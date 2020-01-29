@@ -1,10 +1,11 @@
 # encode_based_on_C
-encode string using different ways
-## hope u can correct my mistakes in english
-i guess there are some grammar errors in English,  for my mother language is Chinese, if there is sth wrong, hope u can help me correct it, please.
-## the usage of these codes?
-u can use them to encode your passwd or sth like that
 
-e.g. u can use a simple rule to set your passwd and encode it using this program
+Encrypting strings using different ways
 
-in this way, you only have to memorize simple meaningful strings while copying the cipher somewhere
+## The usage?
+
+You can use them to encrypt your passwords or other strings
+
+e.g. You can use a simple rule to set your passwords and encrypt them using this program
+
+In this way, you only have to memorize simple meaningful strings while copying the cipher somewhere
