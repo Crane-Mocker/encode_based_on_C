@@ -1,4 +1,4 @@
-# encode_based_on_C
+# encryption_based_on_C
 
 Encrypting strings using different ways
 
